@@ -1,7 +1,7 @@
 # Images for **B2AR-Halo_SNAP-CaaX** and **Halo-TM-SNAP**
 
 ## Author: 
-Arvind Srinivasan, Harvard University (Data Collector)
+Arvind Srinivasan, Harvard University (Data Collector) <br>  
 Maxim B. Prigozhin, Harvard University  (Contact: maxim_prigozhin [at] harvard [dot] edu)
 
 ## Overview
