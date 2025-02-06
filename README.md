@@ -6,9 +6,8 @@ This repository contains confocal microscopy images of **B2AR-Halo_SNAP-CaaX** a
 📄 [BioRxiv: 10.1101/2024.05.10.593617v1](https://www.biorxiv.org/content/10.1101/2024.05.10.593617v1)  
 
 ## Contents
-- High-resolution confocal images of **B2AR-Halo_SNAP-CaaX**  
+- High-resolution confocal images of **B2AR-Halo_SNAP-CaaX** and **Halo-TM-SNAP**
 - Image metadata and acquisition details  
-- Processed datasets used in the analysis  
 
 ## Funding
 This work was supported by the following NIH grants:  
