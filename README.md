@@ -1,5 +1,9 @@
 # Images for **B2AR-Halo_SNAP-CaaX** and **Halo-TM-SNAP**
 
+## Author: 
+Arvind Srinivasan (Data Collector)
+Maxim B. Prigozhin (Contact: maxim_prigozhin [at] harvard [dot] edu)
+
 ## Overview
 This repository contains confocal microscopy images of **B2AR-Halo_SNAP-CaaX** and **Halo-TM-SNAP**, supporting the findings presented in the following preprint:  
 
