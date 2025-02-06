@@ -2,7 +2,6 @@
 
 ## Author: 
 Arvind Srinivasan, Harvard University (Data Collector)
-
 Maxim B. Prigozhin, Harvard University  (Contact: maxim_prigozhin [at] harvard [dot] edu)
 
 ## Overview
