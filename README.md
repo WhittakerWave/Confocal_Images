@@ -1,7 +1,7 @@
 # Confocal_Images
 
 ## Overview
-This repository contains confocal microscopy images of **B2AR-Halo_SNAP-CaaX**, supporting the findings presented in the following preprint:  
+This repository contains confocal microscopy images of **B2AR-Halo_SNAP-CaaX** and **Halo-TM-SNAP**, supporting the findings presented in the following preprint:  
 
 📄 [BioRxiv: 10.1101/2024.05.10.593617v1](https://www.biorxiv.org/content/10.1101/2024.05.10.593617v1)  
 
