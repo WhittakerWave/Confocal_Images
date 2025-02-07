@@ -20,7 +20,7 @@ This work was supported by the following NIH grants:
 - **R21 GM146127**  
 
 ## Usage
-Researchers are encouraged to use these images in accordance with the terms specified in the preprint. If you use this dataset, please cite the preprint accordingly.  
+Researchers are encouraged to use these images. If you use this dataset, please cite the preprint accordingly.  
 
 ---
 
